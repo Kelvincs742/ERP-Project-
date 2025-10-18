@@ -1,7 +1,3 @@
-Esta é uma sugestão de documentação em formato Markdown (`README.md`) para apresentar o projeto no GitHub, utilizando as informações contidas nos seus excertos sobre a criação e carregamento do Banco de Dados ERP MySQL.
-
----
-
 # Criação e Carregamento de Banco de Dados ERP MySQL
 
 Este repositório contém o script SQL (`erp_db_setup.sql`) projetado para criar a estrutura completa de um Banco de Dados (BD) de Sistema de Planejamento de Recursos Empresariais (ERP) e carregar os dados iniciais.
