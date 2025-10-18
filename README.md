@@ -7,3 +7,5 @@ As tabelas principais incluem **Customers, Products, Orders, Suppliers, Employee
 Além disso, o projeto permite a **importação de dados via arquivos CSV**, tornando mais fácil o teste com dados reais e a análise de informações completas sobre pedidos, produtos e fornecedores.
 
 O objetivo deste projeto é servir como base para **aprendizado, estudos e desenvolvimento de sistemas de gestão empresarial**, oferecendo um modelo de dados estruturado e pronto para consultas e integrações.  
+
+![](https://github.com/Kelvincs742/ERP-Project-/blob/main/aaa.png)
