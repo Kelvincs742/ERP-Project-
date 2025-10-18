@@ -8,4 +8,6 @@ Além disso, o projeto permite a **importação de dados via arquivos CSV**, tor
 
 O objetivo deste projeto é servir como base para **aprendizado, estudos e desenvolvimento de sistemas de gestão empresarial**, oferecendo um modelo de dados estruturado e pronto para consultas e integrações.  
 
-![](https://github.com/Kelvincs742/ERP-Project-/blob/main/aaa.png)
+
+
+<img alt="Exemplo de imagem" width="400" height="800" src=https://github.com/Kelvincs742/ERP-Project-/blob/main/der-png.png>
